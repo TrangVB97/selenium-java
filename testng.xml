@@ -1,0 +1,16 @@
+<suite name="Test Suite" parallel="false">
+    <test name="Smoke Tests">
+       <packages>
+            <package name="demo" />
+       </packages>
+    </test>
+<!--    <test name="Regression Tests">-->
+<!--        <classes>-->
+<!--            <class name="demo.SampleTest1">-->
+<!--                <methods>-->
+<!--                    <include name="tc1" />-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
