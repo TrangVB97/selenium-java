@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-15T16:32:06 GMT+07:00" name="Form Authentication" finished-at="2025-05-15T16:32:26 GMT+07:00" duration-ms="20507">
+    <groups>
+    </groups>
+    <test started-at="2025-05-15T16:32:06 GMT+07:00" name="Open Chrome Browser" finished-at="2025-05-15T16:32:26 GMT+07:00" duration-ms="20507">
+      <class name="heroku.FormAuthenticationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:heroku.FormAuthenticationTest@293a5bf6]" started-at="2025-05-15T16:32:06 GMT+07:00" name="setUp" finished-at="2025-05-15T16:32:08 GMT+07:00" duration-ms="2020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc01(java.lang.String)[pri:0, instance:heroku.FormAuthenticationTest@293a5bf6]" started-at="2025-05-15T16:32:08 GMT+07:00" name="tc01" finished-at="2025-05-15T16:32:26 GMT+07:00" duration-ms="18119" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method is-config="true" signature="takeScreenShot(org.testng.ITestResult)[pri:0, instance:heroku.FormAuthenticationTest@293a5bf6]" started-at="2025-05-15T16:32:26 GMT+07:00" name="takeScreenShot" finished-at="2025-05-15T16:32:26 GMT+07:00" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc01 status=SUCCESS method=FormAuthenticationTest.tc01(java.lang.String)[pri:0, instance:heroku.FormAuthenticationTest@293a5bf6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:heroku.FormAuthenticationTest@293a5bf6]" started-at="2025-05-15T16:32:26 GMT+07:00" name="tearDown" finished-at="2025-05-15T16:32:26 GMT+07:00" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- heroku.FormAuthenticationTest -->
+    </test> <!-- Open Chrome Browser -->
+  </suite> <!-- Form Authentication -->
+</testng-results>
