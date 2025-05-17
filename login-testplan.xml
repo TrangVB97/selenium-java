@@ -1,9 +1,9 @@
 <suite name="Form Authentication">
     <test name="Open Chrome Browser">
         <parameter name="browser" value="chrome"/>
-        <classes>
-            <class name="heroku.FormAuthenticationTest"/>
-        </classes>
+        <packages>
+            <package name="heroku"/>
+        </packages>
     </test>
 <!--    <test name="Open Edge Browser">-->
 <!--        <parameter name="browser" value="edge"/>-->
