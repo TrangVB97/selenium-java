@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6df7f06-2f20-4b4c-8ffb-a21c8e15c6f3" name="Changes" comment="commit code day 5" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="day3" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TrangVB97&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:TrangVB97/selenium-java.git&quot;,
+    &quot;accountId&quot;: &quot;6f93d094-af09-408e-b763-a8f1747b34c7&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2thoCPmgoUDKc4bVD45W3hVf1zx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.AK48 [clean].executor": "Run",
+    "Maven.AK48 [compile].executor": "Run",
+    "Maven.AK48 [test].executor": "Run",
+    "Maven.AK48 [validate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.Alerts.executor": "Run",
+    "TestNG.BMICalculatorTest (1).executor": "Run",
+    "TestNG.BMICalculatorTest (2).executor": "Run",
+    "TestNG.BMICalculatorTest (3).executor": "Run",
+    "TestNG.BMICalculatorTest (4).executor": "Run",
+    "TestNG.BMICalculatorTest (5).executor": "Run",
+    "TestNG.BMICalculatorTest.executor": "Run",
+    "TestNG.BMICalculatorTest.verifyBMICalculatorClassification.executor": "Run",
+    "TestNG.BMICalculatorTest.verifyNormalClassification.executor": "Run",
+    "TestNG.BasicAuth.executor": "Run",
+    "TestNG.BasicAuthTest.executor": "Run",
+    "TestNG.BookTicketTest (1).executor": "Run",
+    "TestNG.BrokenImagesTest (1).executor": "Run",
+    "TestNG.BrokenImagesTest.checkBrokenImages.executor": "Run",
+    "TestNG.BrokenImagesTest.executor": "Run",
+    "TestNG.C:/Users/admin/IdeaProjects/AK48/login-testplan.xml.executor": "Run",
+    "TestNG.C:/Users/admin/IdeaProjects/AK48/testng.xml.executor": "Run",
+    "TestNG.CaptureScreen.screenShotTest.executor": "Run",
+    "TestNG.CheckboxesTest (1).executor": "Run",
+    "TestNG.CheckboxesTest.executor": "Run",
+    "TestNG.CheckboxesTest.tc02.executor": "Run",
+    "TestNG.CheckboxesTest.verifySelectCheckboxWorking.executor": "Run",
+    "TestNG.ChromeTest.executor": "Run",
+    "TestNG.ComtextMenu.executor": "Run",
+    "TestNG.ContextMenu.executor": "Run",
+    "TestNG.DragAndDrop.executor": "Run",
+    "TestNG.DragDropTest.executor": "Run",
+    "TestNG.DropDownTest.ableSelectSingleOption.executor": "Run",
+    "TestNG.DropDownTest.executor": "Run",
+    "TestNG.DynamicElements.executor": "Run",
+    "TestNG.EdgeTest.executor": "Run",
+    "TestNG.FileDownload.executor": "Run",
+    "TestNG.FileDownload.verifyDownloadFile.executor": "Run",
+    "TestNG.FileUpload.executor": "Run",
+    "TestNG.FileUpload.vefiryDragAndDropFile.executor": "Run",
+    "TestNG.FileUpload.verifyDragAndDropFileArea.executor": "Run",
+    "TestNG.FirefoxTest.executor": "Run",
+    "TestNG.FormAuthenticationTest.executor": "Run",
+    "TestNG.FormAuthenticationTest.tc01.executor": "Run",
+    "TestNG.FormAuthenticationTest.testFormAuthentication.executor": "Run",
+    "TestNG.FormsAndValidation.executor": "Run",
+    "TestNG.HorizontalSliderTest.executor": "Run",
+    "TestNG.HoverState.executor": "Run",
+    "TestNG.HoverTest.executor": "Run",
+    "TestNG.HyperLinkTest.executor": "Run",
+    "TestNG.KeyPress.executor": "Run",
+    "TestNG.NestedFrameTest.executor": "Run",
+    "TestNG.Notifications.executor": "Run",
+    "TestNG.RightClickTest (1).executor": "Run",
+    "TestNG.RightClickTest.executor": "Run",
+    "TestNG.SafariTest.executor": "Run",
+    "TestNG.SampleTest1.executor": "Run",
+    "TestNG.Slider.checkAdjustSlider.executor": "Run",
+    "TestNG.TableTest.executor": "Run",
+    "TestNG.Test.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/AK48",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/AK48/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\AK48\src\main\java\browser\subfolder" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.FormAuthenticationTest.tc01">
+    <configuration name="BMICalculatorTest (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AK48" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculator" />
+      <option name="MAIN_CLASS_NAME" value="calculator.BMICalculatorTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/admin/IdeaProjects/AK48/login-testplan.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AK48" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/login-testplan.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormAuthenticationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AK48" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heroku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="heroku" />
+      <option name="MAIN_CLASS_NAME" value="heroku.FormAuthenticationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormAuthenticationTest.tc01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AK48" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heroku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="heroku" />
+      <option name="MAIN_CLASS_NAME" value="heroku.FormAuthenticationTest" />
+      <option name="METHOD_NAME" value="tc01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormAuthenticationTest.testFormAuthentication" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AK48" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heroku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="heroku" />
+      <option name="MAIN_CLASS_NAME" value="heroku.FormAuthenticationTest" />
+      <option name="METHOD_NAME" value="testFormAuthentication" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FormAuthenticationTest.tc01" />
+        <item itemvalue="TestNG.C:/Users/admin/IdeaProjects/AK48/login-testplan.xml" />
+        <item itemvalue="TestNG.FormAuthenticationTest" />
+        <item itemvalue="TestNG.FormAuthenticationTest.testFormAuthentication" />
+        <item itemvalue="TestNG.BMICalculatorTest (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SeleniumInternalSettingsState">
+    <option name="lastUrl" value="https://the-internet.herokuapp.com/login" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6df7f06-2f20-4b4c-8ffb-a21c8e15c6f3" name="Changes" comment="" />
+      <created>1740813542222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740813542222</updated>
+      <workItem from="1740813543681" duration="7086000" />
+      <workItem from="1740924211274" duration="596000" />
+      <workItem from="1741179190194" duration="606000" />
+      <workItem from="1741263330946" duration="9000" />
+      <workItem from="1741263378775" duration="1880000" />
+      <workItem from="1741407939744" duration="9788000" />
+      <workItem from="1741615519901" duration="5539000" />
+      <workItem from="1741704682258" duration="1319000" />
+      <workItem from="1742022155266" duration="2917000" />
+      <workItem from="1742028542618" duration="2030000" />
+      <workItem from="1742136572221" duration="3160000" />
+      <workItem from="1742142348445" duration="2467000" />
+      <workItem from="1742218176809" duration="534000" />
+      <workItem from="1742224263852" duration="1190000" />
+      <workItem from="1742226937127" duration="1379000" />
+      <workItem from="1742297861736" duration="2198000" />
+      <workItem from="1742611444284" duration="3504000" />
+      <workItem from="1742616616888" duration="10150000" />
+      <workItem from="1743214251634" duration="9000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: init project">
+      <option name="closed" value="true" />
+      <created>1742141665714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742141665714</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: init project">
+      <option name="closed" value="true" />
+      <created>1742142951480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742142951480</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit code day3">
+      <option name="closed" value="true" />
+      <created>1742143867434</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742143867434</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit code day5">
+      <option name="closed" value="true" />
+      <created>1743835458284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743835458284</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit code day 5">
+      <option name="closed" value="true" />
+      <created>1743836586265</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743836586265</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="feat: init project" />
+    <MESSAGE value="commit code day3" />
+    <MESSAGE value="commit code day5" />
+    <MESSAGE value="commit code day 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit code day 5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/browser/SafariTest.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
