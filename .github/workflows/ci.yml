@@ -2,7 +2,7 @@ name: Selenium Java CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "day8" ]
   pull_request:
     branches: [ "main" ]
 permissions:
