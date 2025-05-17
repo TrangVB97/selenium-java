@@ -3,6 +3,7 @@ package heroku;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
@@ -17,13 +18,14 @@ public class BasicAuthTest {
 
     @BeforeTest
     void setUp(){
-        driver = new ChromeDriver();
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--headless");
+        driver = new ChromeDriver(options);
+        driver.get("https://admin:admin@the-internet.herokuapp.com/basic_auth");
     }
 
     @Test
     void verifyBasicAuth(){
-        driver.get("https://admin:admin@the-internet.herokuapp.com/basic_auth");
-
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.id("content"))));
         Assert.assertTrue(driver.findElement(By.id("content")).getText().contains("Congratulations"));

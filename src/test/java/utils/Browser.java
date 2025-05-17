@@ -34,7 +34,7 @@ public class Browser {
                 break;
             default:
                 ChromeOptions options = new ChromeOptions();
-                options.addArguments("--headless=new");
+                options.addArguments("--headless");
                 driver = new ChromeDriver(options);
                 break;
         }
